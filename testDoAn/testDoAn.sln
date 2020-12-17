@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testDoAn", "testDoAn\testDoAn.csproj", "{34A2DE1B-EFCD-4025-9EDF-13DA064AAA6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NhanVien", "NhanVien\NhanVien.csproj", "{AB72A7BD-80DA-485A-8098-64BB265E8470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inforNV", "inforNV\inforNV.csproj", "{593A464C-AFDA-4CC0-B355-3E1E94D6173E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A2DE1B-EFCD-4025-9EDF-13DA064AAA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A2DE1B-EFCD-4025-9EDF-13DA064AAA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A2DE1B-EFCD-4025-9EDF-13DA064AAA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A2DE1B-EFCD-4025-9EDF-13DA064AAA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB72A7BD-80DA-485A-8098-64BB265E8470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB72A7BD-80DA-485A-8098-64BB265E8470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB72A7BD-80DA-485A-8098-64BB265E8470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB72A7BD-80DA-485A-8098-64BB265E8470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593A464C-AFDA-4CC0-B355-3E1E94D6173E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593A464C-AFDA-4CC0-B355-3E1E94D6173E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593A464C-AFDA-4CC0-B355-3E1E94D6173E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593A464C-AFDA-4CC0-B355-3E1E94D6173E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59742E01-818D-45D0-960D-642A512A6659}
+	EndGlobalSection
+EndGlobal

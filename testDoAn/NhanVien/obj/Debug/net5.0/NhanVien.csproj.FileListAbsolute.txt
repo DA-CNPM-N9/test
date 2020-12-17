@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\NhanVien.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\NhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\NhanVien.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\NhanVien.AssemblyInfo.cs
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\NhanVien.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\bin\Debug\net5.0\NhanVien.exe
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\bin\Debug\net5.0\NhanVien.deps.json
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\bin\Debug\net5.0\NhanVien.runtimeconfig.json
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\bin\Debug\net5.0\NhanVien.runtimeconfig.dev.json
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\bin\Debug\net5.0\NhanVien.dll
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\bin\Debug\net5.0\ref\NhanVien.dll
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\bin\Debug\net5.0\NhanVien.pdb
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\NhanVien.dll
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\ref\NhanVien.dll
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\NhanVien.pdb
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\net5.0\NhanVien.genruntimeconfig.cache

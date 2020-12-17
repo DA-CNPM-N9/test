@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\netcoreapp3.1\NhanVien.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\netcoreapp3.1\NhanVien.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\netcoreapp3.1\NhanVien.AssemblyInfo.cs
+C:\Users\HP\Desktop\IT\HK1-3\CNPM\testDoAn\NhanVien\obj\Debug\netcoreapp3.1\NhanVien.csproj.CoreCompileInputs.cache
